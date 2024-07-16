@@ -1,0 +1,6 @@
+ID;titleEnglish;customerName;productName;summaryEnglish;messageCategory;messageUrgency;messageSentiment;titleCustomerLanguage;customerId;productId;summaryCustomerLanguage;originatingCountry;sourceLanguage;fullMessageCustomerLanguage;fullMessageEnglish;suggestedResponseEnglish;suggestedResponseCustomerLanguage
+f9b9278e-4d3a-4470-bd18-d5f44df2069e;;customerName1253;productName7844;;;;;Titre en français;customerId7981;productId4169;;France;;Problème technique, urgence élevée, sentiment négatif;;;
+b96f1209-4545-467b-a709-fbc44a6e2bfb;;customerName6091;productName1477;;;;;Titre en français;customerId1376;productId1015;;France;;Problème de livraison, urgence moyenne, sentiment neutre;;;
+9890aadc-9c03-44a5-ab4a-d9bba0e2dcaf;;customerName2392;productName5537;;;;;Titre en français;customerId4852;productId8119;;France;;Problème de service, urgence faible, sentiment positif;;;
+d3b0768a-a3ca-4f72-ab77-d0354acf017b;;customerName6379;productName5968;;;;;Titre en français;customerId8607;productId3914;;France;;Problème technique, urgence moyenne, sentiment négatif;;;
+5fb40c37-c47a-41c0-afb4-f31d9adf70e2;;customerName4120;productName2518;;;;;Titre en français;customerId1081;productId8540;;France;;Problème de livraison, urgence élevée, sentiment positif;;;
