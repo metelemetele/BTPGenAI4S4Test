@@ -5,17 +5,17 @@ using from '../annotations';
 
 annotate service.CustomerMessage with @(
     UI.SelectionFields : [
-        customerMessageID,
+   //     customerMessageID,
         customerId,
         productId,
     ]
 );
 annotate service.CustomerMessage with @(
     UI.LineItem : [
-        {
+        /*{
             $Type : 'UI.DataField',
             Value : customerMessageID,
-        },
+        },*/
         {
             $Type : 'UI.DataField',
             Value : titleEnglish,
