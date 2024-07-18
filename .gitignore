@@ -37,3 +37,7 @@ mta_archives/
 build/ui-deployer/
 build/dist/
 env/
+
+.env
+db/data/getying_adolfo_padron_a20-CustomerMessage.csv
+.gitignore
