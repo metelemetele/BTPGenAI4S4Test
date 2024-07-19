@@ -4,9 +4,9 @@
 <head>
     <title> Project Preview </title>
     <script src="shared-config.js"></script>
-    <script src="https://ui5.sap.com/1.124.2/resources/sap-ui-core.js" 
+    <script src="https://ui5.sap.com/1.120.13/resources/sap-ui-core.js" 
             id="sap-ui-bootstrap"
-            data-sap-ui-theme="sap_belize"
+            data-sap-ui-theme="sap_horizon"
             data-sap-ui-bindingSyntax="complex" 
             data-sap-ui-xx-bindingSyntax="complex"
             data-sap-ui-resourceroots='{"assets": "assets"}' 
@@ -28,7 +28,7 @@
                     return Controller.extend("PreviewController", {
                         onInit: function () {
 
-                            const data = {"Services":[{"ServiceName":"getying_adolfo_padron_a20Srv","DetailsURL":"./service/getying_adolfo_padron_a20/","Metadata":"./service/getying_adolfo_padron_a20/$metadata","Entities":[{"Name":"CustomerMessage","URL":"./service/getying_adolfo_padron_a20/CustomerMessage","FioriURL":"$fiori-preview/getying_adolfo_padron_a20Srv/CustomerMessage#preview-app"}],"EntitiesCount":1}]}
+                            const data = {"Services":[]}
                             this.getView().setModel(new JSONModel(data));
                         }
                     });
